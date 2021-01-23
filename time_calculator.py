@@ -1,3 +1,7 @@
+#Hi there, if you have any feedback on the code,
+#feel free to contact me on linkedin
+#https://www.linkedin.com/in/tyson-cheah
+
 def add_time(start, duration, day=None):
     days =["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
     
